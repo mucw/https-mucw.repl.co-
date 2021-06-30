@@ -1,0 +1,31 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: grey;
+}
+p {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: #89cedb
+}
+a:visited{
+    color:  #e4a261
+}
+
+.titlebit {
+    border-style: solid;
+    border-color: black;
+    border: width 2px;
+}
